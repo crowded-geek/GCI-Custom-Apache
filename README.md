@@ -17,3 +17,5 @@ for GCI
     ![img](https://i.imgur.com/dQ7EOoF.png)
     
 # [DEMO](https://streamable.com/mc5yq)
+
+Google Code-in and the Google Code-in logo are trademarks of Google Inc.
